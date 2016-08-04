@@ -1,3 +1,5 @@
+-- Motor: PostgreSQL 9.5.2
+
 --------------------------------------------------------
 DROP SEQUENCE alertas_idalerta_seq CASCADE;
 DROP SEQUENCE compras_periodo_usuario_idcpu_seq CASCADE;

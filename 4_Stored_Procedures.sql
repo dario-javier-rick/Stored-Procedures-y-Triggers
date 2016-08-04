@@ -1,3 +1,5 @@
+-- Motor: PostgreSQL 9.5.2
+
 -- Stored procedure: funcion_alerta_consumos
 
 -- Function: funcion_alerta_consumos(boolean, int)
